@@ -1,0 +1,16 @@
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.mp4
+*.avi
+*.csv
+*.log
+logs/
+output*/
+cache_dir/
+wandb/
+__pycache__/
+*.o[0-9]*
+*.e[0-9]*
