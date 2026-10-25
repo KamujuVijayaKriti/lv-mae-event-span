@@ -57,7 +57,7 @@ Best test accuracy over 60 probe epochs, following the LV-MAE evaluation protoco
 | Kamuju Vijaya Kriti | CB.SC.U4CSE23623 | [@KamujuVijayaKriti](https://github.com/KamujuVijayaKriti) |
 | Deepthi Naradasu | CB.SC.U4CSE23069 | [@Deepthi2122](https://github.com/Deepthi2122) |
 | Paggilla Saketh | CB.SC.U4CSE23343 | [@saketh-04](https://github.com/saketh-04⁠) |
-| Mylavaram Pranav | CB.SC.U4CSE23433 | [@username](https://github.com/Pranav1974) |
+| Mylavaram Pranav | CB.SC.U4CSE23433 | [@Pranav1974](https://github.com/Pranav1974) |
 ## Credits
 
 - Model, pretraining and probe code: LV-MAE (amazon-science/lv-mae), see LICENSE.
