@@ -40,7 +40,7 @@ qsub -v M=event_span_xd16,SEED=0,LVMAE_NUM_CLASSES=7,$XD pbs_probe_ap.sh
 
 Check job status with `qstat -u $USER`.
 
-- **Pretraining:** 151 epochs (40 warm-up), mask ratio 0.5, effective batch 16 (4 × 4 accumulation), MSE on masked segments, encoder 32 layers / 16 heads, decoder 8 layers / 512-d.
+- **Pretraining:** 151 epochs , mask ratio 0.5, effective batch 16 (4 × 4 accumulation), MSE on masked segments, encoder 32 layers / 16 heads, decoder 8 layers / 512-d.
 - **Evaluation:** attentive probe (`test_ap.py`), 60 epochs.
 
 ## Result: XD-Violence (7 classes, 799 test videos)
