@@ -50,7 +50,14 @@ Check job status with `qstat -u $USER`.
 | LV-MAE + event-span masking | **87.73%** |
 
 Best test accuracy over 60 probe epochs, following the LV-MAE evaluation protocol (XD-Violence has no separate validation split). Single pretraining run.
+## Team
 
+| Name | Roll number | GitHub |
+|---|---|---|
+| Kamuju Vijaya Kriti | CB.SC.U4CSE23623 | [@KamujuVijayaKriti](https://github.com/KamujuVijayaKriti) |
+| Deepthi Naradasu | CB.SC.U4CSE23069 | [@Deepthi2122](https://github.com/Deepthi2122) |
+| Paggilla Saketh | CB.SC.U4CSE23343 | [@saketh-04](https://github.com/saketh-04⁠) |
+| Mylavaram Pranav | CB.SC.U4CSE23433 | [@username](https://github.com/username) |
 ## Credits
 
 - Model, pretraining and probe code: LV-MAE (amazon-science/lv-mae), see LICENSE.
